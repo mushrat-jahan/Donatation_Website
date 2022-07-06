@@ -43,7 +43,7 @@ h1{
     display: flex;
     justify-content: space-between;
 }
-.container{
+.container1{
     margin: 30px 0;
 }
 .container-btn{
@@ -62,7 +62,7 @@ h1{
     font-size: 19px;
     font-weight: 300;
     color: rgb(81, 82, 82);
-    width: 98%;
+    width: 99%;
     text-align: center;
 }
 hr{
@@ -74,5 +74,99 @@ hr{
     margin-top: 50px;
     text-align: center;
 }
+.donate-plan-content{
+    text-align: center;
+    margin-top: 80px;
+}
+.donate-plan-content p{
+    color: rgb(81, 82, 82);
+}
+.donate-plan-content h2{
+    font-size: 35px;
+}
+.box-section{
+    margin-top: 40px;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.box-section img{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.box-section h3{
+    margin-left: 20px;
+}
+.box-section p{
+    margin-left: 20px;
+    color:  rgb(81, 82, 82);
+}
+.food-box{
+    background-color: #EDF5F6;
+    padding: 70px 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.shelter-box{
+    background-color: #FFEEEE;
+    padding: 70px 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.edu-box{
+    background-color: #FFF4D6;
+    padding: 70px 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.updates-section{
+    margin-top: 50px;
+    text-align: center;
+}
+.updates-section p{
+    color: rgb(81, 82, 82);
+}
+.updates-section h2{
+    font-size: 40px;
+}
+.submission{
+    background-color: #ff5959;
+    border: none;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    height: 30px;
+    width: 100px;
+}
+.add-email{
+    background-color: #DEDDDD;
+    border: none;
+    color: rgb(81, 82, 82);
+    border-radius: 5px 0px 0px 5px;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+}
+.subscribe-box{
+    padding: 70px 90px;
+    width: 50%;
+    background-color: #FFF4D6;
+    margin: auto;
 
+}
+
+
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 70px;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
+}
 
